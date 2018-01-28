@@ -10,6 +10,8 @@ could potentially win big.
 
 # So You Want to ML?
 
+![perspective](perspective.svg "Perspective")
+
 A flowchart to help guide you.
 
 1. If you know everything about your data, then exit
